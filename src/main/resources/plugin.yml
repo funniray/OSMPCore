@@ -1,0 +1,7 @@
+name: OSMPCore
+version: ${project.version}
+main: pro.kdray.osmp.osmpcore.OSMPCore
+softdepend: [FastAsyncWorldEdit,SynapseAPI]
+authors: [Funniray]
+description: Open Source Minecraft Platform
+website: https://www.kdray.pro/OSMP
